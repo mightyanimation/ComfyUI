@@ -1,3 +1,6 @@
+import mty_bootstrap
+mty_bootstrap.bootstrap()
+
 import comfy.options
 comfy.options.enable_args_parsing()
 
