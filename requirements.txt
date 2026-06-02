@@ -38,3 +38,4 @@ glfw
 
 opencv-python-headless
 PySide6-Essentials
+six
